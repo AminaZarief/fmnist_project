@@ -1,0 +1,2 @@
+Fashion MNIST dataset will be downloaded automatically when run 'main.py' 
+Alternatively, manually download it from [Kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist) and place the CSV files here.
