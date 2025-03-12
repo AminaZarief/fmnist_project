@@ -1,4 +1,4 @@
-# Fmnist Project 
+# FMNIST - Project 
 this project demonstrates how to work with Fashion MNIST dataset using nn and cnn  
 
 
